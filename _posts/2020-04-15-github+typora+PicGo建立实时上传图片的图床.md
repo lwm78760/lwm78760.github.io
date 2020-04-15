@@ -147,44 +147,45 @@ ps:整个过程的bug非常多，让我非常痛苦。最后完成的效果：�
 
 1. 首先在确保你的GitHub图床设置路径准确无误的情况下：
 
-- 再次检查你的仓库名是否正确
-- 仓库名不能出现空格！！如果一定要有空格请用 **-** 来代替（因为GitHub中的空格默认换成-）
-- 不要出现一些奇怪的符号！
+   + 再次检查你的仓库名是否正确
+   + 仓库名不能出现空格！！如果一定要有空格请用 **-** 来代替（因为GitHub中的空格默认换成-）
+   + 不要出现一些奇怪的符号！
 
 2. 上传文件的问题
 
-- 同上，文件名不要包含空格！
-- 文件名不要包含奇怪的字符（**加**乘百分号等等）
+   + 同上，文件名不要包含空格！
+
+   + 文件名不要包含奇怪的字符（**加**乘百分号等等）
 
 3. 间歇性上传失败
 
-这种情况是以上都没问题，并且之前成功上传过，突然就不能上传了。
+   这种情况是以上都没问题，并且之前成功上传过，突然就不能上传了。
 
-打开PicGo的**设置-设置server**
+   打开PicGo的**设置-设置server**
 
-![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20200222203320.png)
+   ![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20200222203320.png)
 
-把这个开关，开换成关，关换成开（别问为什么，问就是不知道反正有效。。）
+   把这个开关，开换成关，关换成开（别问为什么，问就是不知道反正有效。。）
 
-![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20200222203337.png)
+   ![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20200222203337.png)
 
 4. 仍然没有解决
 
-这种情况，咱就只能依靠玄学了
+   这种情况，咱就只能依靠玄学了
 
-- 重启应用
-- 重启电脑
-- 如果使用代理了，全局或直连试一下
+   - 重启应用
+   - 重启电脑
+   - 如果使用代理了，全局或直连试一下
 
 ### 五、使用smms图床
 
 1. **首先你需要在插件设置中下载 `smms-user` 的插件**
 
-![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/C51bhKfY7m3qXHP.png)
+    ![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/C51bhKfY7m3qXHP.png)
 
 2. **点击图标，会把你引向这个插件的github主页 [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user#readme)**
 
-**详细阅读文档后你需要：**
+    **详细阅读文档后你需要：**
 
 ```shell
 Copy# 1.进入 ~/.config/picgo/ 目录
