@@ -21,13 +21,15 @@ tags:                               #标签
 
 [手把手教你用Typora自动上传到picgo图床【教程与排坑】](https://www.jianshu.com/p/4cd14d4ceb1d)
 
+[PicGo踩坑记（上传失败，服务端出错，请重试）](https://blog.csdn.net/TalesOV/article/details/104450037)
+
 ### 一、下载
 
 ##### 下载PicGo
 
 **[作者github的release地址](https://github.com/Molunerfinn/PicGo/releases)**
 
-![img](imgs/qoHNTIx3OtV1Cr7-1586942379084.png)
+![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgsqoHNTIx3OtV1Cr7-1586942379084.png)
 
 ​		或者听从[作者建议](https://github.com/Molunerfinn/PicGo)
 
@@ -39,7 +41,7 @@ tags:                               #标签
 
 [进入官网](https://www.typora.io/)下载typora
 
-![image-20200415172706373](imgs/image-20200415172706373.png)
+![image-20200415172706373](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415172706373.png)
 
 ### 二、建立github图床仓库
 
@@ -47,7 +49,7 @@ tags:                               #标签
 
 ##### 2. 创建Repository，点击"New repository"按钮，进行设置
 
-![image-20200415174228662](imgs/image-20200415174228662.png)
+![image-20200415174228662](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415174228662.png)
 
 > 为repository初始化一个README.md文件可以根据需求选择，非必选
 
@@ -59,7 +61,7 @@ tags:                               #标签
 
 进入页面后，点击"Personal access tokens"按钮
 
-![image-20200415174402787](imgs/image-20200415174402787.png)
+![image-20200415174402787](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415174402787.png)
 
 
 
@@ -178,7 +180,7 @@ ps:整个过程的bug非常多，让我非常痛苦。最后完成的效果：�
 
 1. **首先你需要在插件设置中下载 `smms-user` 的插件**
 
-![img](imgs/C51bhKfY7m3qXHP.png)
+![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/C51bhKfY7m3qXHP.png)
 
 2. **点击图标，会把你引向这个插件的github主页 [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user#readme)**
 
