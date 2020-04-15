@@ -29,7 +29,7 @@ tags:                               #标签
 
 **[作者github的release地址](https://github.com/Molunerfinn/PicGo/releases)**
 
-![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgsqoHNTIx3OtV1Cr7-1586942379084.png)
+![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/qoHNTIx3OtV1Cr7-1586942379084.png)
 
 ​		或者听从[作者建议](https://github.com/Molunerfinn/PicGo)
 
