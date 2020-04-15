@@ -110,6 +110,18 @@ tags:                               #标签
 
 ![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20524049-bfad2dcc0c1060df.gif)
 
+改为复制到指定路径
+
+![image-20200415200325429](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415200325429.png)
+
+我的复制，会自动到复制到指定目录，会有提示上传图像
+
+![image-20200415200048080](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415200048080.png)
+
+上传后的路径
+
+![image-20200415200157626](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415200157626.png)
+
 可以在【格式】->【图像】->【上传所有图片】
 
 ![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20524049-51b15429b5affad8.png)
