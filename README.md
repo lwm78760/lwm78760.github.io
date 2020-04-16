@@ -1,6 +1,6 @@
 
 
-![image-20200416090112607](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/20204151923.jpg)
+![image-20200416090112607](https://raw.githubusercontent.com/lwm78760/lwm78760.github.io/master/img/20204151923.jpg)
 
 
 
@@ -83,7 +83,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![image-20200416092132531](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200416092132531.png)
+![image-20200416092132531](https://raw.githubusercontent.com/lwm78760/lwm78760.github.io/master/img/image-20200416092132531.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
