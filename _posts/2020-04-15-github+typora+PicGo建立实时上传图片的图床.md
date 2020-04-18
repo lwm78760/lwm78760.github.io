@@ -41,7 +41,7 @@ tags:                               #标签
 
 [进入官网](https://www.typora.io/)下载typora
 
-![image-20200415172706373](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415172706373.png)
+![image-20200415172706373](https://gitee.com/lwmlwmlwm/github-picgo-typora/raw/master/imgs/image-20200415172706373.png)
 
 ### 二、建立github图床仓库
 
