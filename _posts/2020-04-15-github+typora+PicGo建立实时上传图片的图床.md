@@ -41,7 +41,7 @@ tags:                               #标签
 
 [进入官网](https://www.typora.io/)下载typora
 
-![image-20200415172706373](https://gitee.com/lwmlwmlwm/github-picgo-typora/raw/master/imgs/image-20200415172706373.png)
+![image-20200415172706373](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/image-20200415172706373.png)
 
 ### 二、建立github图床仓库
 
@@ -83,7 +83,7 @@ tags:                               #标签
 + 分支名统一填写“master”,即github的主分支
 + 将之前的Token黏贴在这里
 + 存储的路径可以按照我这样子写，就会在repository下创建一个“imgs”文件夹
-+ 自定义域名的作用是，在上传图片后成功后，PicGo会将“自定义域名+上传的图片名”生成的访问链接，放到剪切板上`https://raw.githubusercontent.com/用户名/RepositoryName/分支名，`，自定义域名需要按照这样去填写
++ 自定义域名的作用是，在上传图片后成功后，PicGo会将“自定义域名+上传的图片名”生成的访问链接，放到剪切板上`https://raw.githubusercontent.com/用户名/RepositoryName/分支名，`，自定义域名需要按照这样去填写，这是以后的访问路径。
 
 ##### 2.快捷键及相关配置
 
@@ -216,3 +216,11 @@ npm install ./picgo-plugin-smms-user
   `secret token `
 
 ![img](https://raw.githubusercontent.com/lwm78760/github-picgo-typora/master/imgs/Vu6xdcjXsSARGDv.png)
+
+### 六、建立后访问
+
+​		上传后你查看仓库的图片路径`https://github.com/用户名/RepositoryName/blob/master/`，访问时改为   `https://raw.githubusercontent.com/用户名/RepositoryName/分支名`
+
+​		你可以点击图片左面的下载按钮查看路径
+
+​		现在我的github打不开图片，改在gitee自动同步github项目，这样两地备份。可以查看gitee，图片加载路径，需将路径中的blob改为raw。
